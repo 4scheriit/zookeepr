@@ -171,6 +171,15 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "Lars",
+      "species": "Gorilla",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "18"
     }
   ]
 }
